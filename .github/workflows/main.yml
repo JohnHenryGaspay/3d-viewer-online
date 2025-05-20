@@ -1,5 +1,4 @@
-name: Upload Website
-
+name: Deploy Files
 on:
   push:
     branches:
